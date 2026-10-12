@@ -1,0 +1,12 @@
+{
+    "tag":  "v7.27.2",
+    "expectedCommitPrefix":  "97e9e21",
+    "qtRoot":  "C:\\Qt\\6.9.3\\msvc2022_64",
+    "boostRoot":  "C:\\Libraries\\boost_1_73_0",
+    "cmake":  "cmake.exe",
+    "ninja":  "ninja.exe",
+    "git":  "git.exe",
+    "makensis":  "makensis.exe",
+    "patch":  "patch.exe",
+    "parallel":  4
+}
