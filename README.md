@@ -1,4 +1,9 @@
 # SDRangel-RU
+
+![Original SDRangel banner](https://raw.githubusercontent.com/f4exb/sdrangel/master/doc/img/sdrangel_banner.png)
+
+*Изображение: оригинальный SDRangel, [f4exb/sdrangel](https://github.com/f4exb/sdrangel). Это не скриншот русской версии.*
+
 Russian localization of SDRangel for Windows, Qt translations, source patches and automated builds
 
 
